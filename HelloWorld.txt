@@ -1,1 +1,3 @@
 Hello, world!
+
+Would you like a snack, world?
